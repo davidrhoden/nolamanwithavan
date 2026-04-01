@@ -230,15 +230,15 @@ header {
 /* content  */
 
 picture {
-	float: left;
-	max-width: 200px;
-	margin: 1em;
+	max-width: 300px;
+	margin: 1em auto;
 }
 
 .cta {
 	clear: left;
 	font-size: 2em;
 	font-weight: bold;
+	line-height: 1.1;
 }
 
 /* Posts list */
@@ -308,5 +308,14 @@ picture {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+
+@media screen and (width >=960px) {
+
+	picture {
+		float: left;
+		max-width: 200px;
+		margin: 1em;
+	}
 }
 

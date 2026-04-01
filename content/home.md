@@ -3,8 +3,8 @@ layout: layouts/home.njk
 title: NOLA Man With A Van -- Small moves and deliveries in New Orleans, Louisiana. Call (504) 507-0254.
 date: 2026-03-28T00:00:00.000Z
 permalink: /
-excerpt: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
-summary: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
+excerpt: Furniture moves, dump runs, yard work, hardware store pickups. Orleans and St. Bernard parishes.
+summary: Furniture moves, dump runs, yard work, hardware store pickups. Orleans and St. Bernard parishes.
 image: /static/img/man-with-van-mar-9-2026.png
 ---
 

@@ -20,7 +20,7 @@ export default async function(eleventyConfig) {
 	// For example, `./static/css/` ends up in `_site/css/`
 	eleventyConfig
 		.addPassthroughCopy({
-			"./static/": "/"
+			"static/": "/"
 		})
 
 	// Run Eleventy when these files change:

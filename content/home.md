@@ -41,7 +41,7 @@ Supplies and tools I can provide:
 -----
 
 Some rules:
-- Please, if you're moving a dresser, unload it, and remove the drawers.
+Please, if you're moving a dresser, unload it, and remove the drawers.
 I carried a loaded dresser up a flight of stairs ONCE, and it was my mistake to do it.
 I'd rather do five or six light trips than one trip that is heavy enough for someone to get hurt.
 

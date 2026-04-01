@@ -28,10 +28,6 @@ I don't just move furniture! I can:
 
 -----
 
-Ask me about airport rides. _If_ you are getting picked up close to me, I can take you to the airport for less than an Uber or Lyft, if you don't mind riding in an old truck. You can pick the radio station.
-
------
-
 Supplies and tools I can provide:
 - Moving blankets/cloths/tarps
 - Screwdrivers and wrenches for dismantling and reassembling furniture

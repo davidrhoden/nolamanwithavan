@@ -227,6 +227,20 @@ header {
 	text-decoration: underline;
 }
 
+/* content  */
+
+picture {
+	float: left;
+	max-width: 200px;
+	margin: 1em;
+}
+
+.cta {
+	clear: left;
+	font-size: 2em;
+	font-weight: bold;
+}
+
 /* Posts list */
 .postlist {
 	counter-reset: start-from var(--postlist-index);

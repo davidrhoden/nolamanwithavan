@@ -1,11 +1,11 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
+	title: "NOLA Man With A Van....but it's a pickup truck.",
+	url: "https://nolamanwithvan.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Moving something a little too big to fit in your car? Wish you had a pickup truck? Well, I have one. Call me at (504) 507-0254.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Happening Interactive Web Design and Development",
+		email: "hello@happeninginteractive.com",
+		url: "https://happeninginteractive.com/"
 	}
 }

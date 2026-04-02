@@ -18,18 +18,10 @@ export default async function(eleventyConfig) {
 
 	// Copy the contents of the `static` folder to the output folder
 	// For example, `./static/css/` ends up in `_site/css/`
-	eleventyConfig
-		.addPassthroughCopy({
-			"static/": "/"
-		})
+	eleventyConfig.addPassthroughCopy("static/img");
 
-	// Run Eleventy when these files change:
-	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
-
-	// Watch CSS files
 	eleventyConfig.addWatchTarget("css/**/*.css");
-	// Watch images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+	eleventyConfig.addWatchTarget("static/**/*.{svg,webp,png,jpg,jpeg,gif}");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Bundle <style> content and adds a {% css %} paired shortcode
@@ -47,9 +39,6 @@ export default async function(eleventyConfig) {
 		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
 		bundleHtmlContentFromSelector: "script",
 	});
-
-	// Official plugins
-	eleventyConfig.addPlugin(HtmlBasePlugin);
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
@@ -109,9 +98,9 @@ export const config = {
 
 	// These are all optional:
 	dir: {
-		input: "content",          // default: "."
-		includes: "../_includes",  // default: "_includes" (`input` relative)
-		data: "../_data",          // default: "_data" (`input` relative)
+		input: ".",          // default: "."
+		includes: "_includes",  // default: "_includes" (`input` relative)
+		data: "_data",          // default: "_data" (`input` relative)
 		output: "_site"
 	},
 };

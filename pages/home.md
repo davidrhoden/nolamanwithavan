@@ -17,6 +17,10 @@ It'll fit a king-size mattress or a sheet of plywood, no problem.
 
 <p class="cta">Call or text (504) 507-0254 for a quote.</p>
 
+My service area is most or all of New Orleans (Orleans Parish), and St. Bernard Parish.
+I'm located in the Lower 9th Ward, so Arabi and Chalmette are close to me (and Kenner and Metairie are kind of far).
+I can go to the Northshore, but the distance would be reflected in the price.
+
 Basic rates start at $75 per trip, plus extra, depending on what the load is, and how far it has to go.
 That rate also assumes you, or someone you bring, can help me load and unload the truck.
 I can bring more movers, but that changes the price quite a bit.
@@ -63,5 +67,15 @@ Things I would *love* to take to the dump that are NOT ALLOWED:
 -----
 
 Not rules, but suggestions to make your move easier:
+
+- Bed frames are a lot easier to move if they come apart. At the very least the headboard (if there is one) needs to come off.
+I'm happy to help you disassembele and reassemble your bed frame and headboard.
+If it really can't be disassembled, I'll need to see pictures and/or measurements to make sure we can move it.
+
 - Books are heavy, and they should be in small boxes.
 Most storage places, and some big box stores, sell book boxes! They're small, so they're cheap. You'll thank yourself later.
+I can bring book boxes for $3/box.
+
+-----
+
+Venmo or cash are the preferred forms of payment.

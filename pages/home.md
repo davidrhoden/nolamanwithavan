@@ -69,7 +69,7 @@ Things I would *love* to take to the dump that are NOT ALLOWED:
 Not rules, but suggestions to make your move easier:
 
 - Bed frames are a lot easier to move if they come apart. At the very least the headboard (if there is one) needs to come off.
-I'm happy to help you disassembele and reassemble your bed frame and headboard.
+I'm happy to help you disassemble and reassemble your bed frame and headboard.
 If it really can't be disassembled, I'll need to see pictures and/or measurements to make sure we can move it.
 
 - Books are heavy, and they should be in small boxes.

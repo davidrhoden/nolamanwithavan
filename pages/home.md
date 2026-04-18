@@ -18,12 +18,8 @@ It'll fit a king-size mattress or a sheet of plywood, no problem.
 <p class="cta">Call or text (504) 507-0254 for a quote.</p>
 
 My service area is most or all of New Orleans (Orleans Parish), and St. Bernard Parish.
-I'm located in the Lower 9th Ward, so Arabi and Chalmette are close to me (and Kenner and Metairie are kind of far).
-I can go to the Northshore, but the distance would be reflected in the price.
-
-Basic rates start at $75 per trip, plus extra, depending on what the load is, and how far it has to go.
-That rate also assumes you, or someone you bring, can help me load and unload the truck.
-I can bring more movers, but that changes the price quite a bit.
+I'm located in the Lower 9th Ward, so Arabi and Chalmette are close to me (and Kenner and Metairie are kind of far, but no problem).
+Northshore, West Bank? Give me a call, we'll talk.
 
 I don't just move furniture! I can:
 - move construction trash or yard trash to the dump ([the dump does not accept furniture](https://gentillylandfill.com/permittedwaste/) though; did you know that? I didn't.)

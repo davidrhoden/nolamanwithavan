@@ -68,10 +68,13 @@ Not rules, but suggestions to make your move easier:
 I'm happy to help you disassemble and reassemble your bed frame and headboard.
 If it really can't be disassembled, I'll need to see pictures and/or measurements to make sure we can move it.
 
+- For couches, I'll need someone to handle the other end. If that's not you, let me know, and I'll bring a helper with me.
+That raises the price somewhat.
+
 - Books are heavy, and they should be in small boxes.
 Most storage places, and some big box stores, sell book boxes! They're small, so they're cheap. You'll thank yourself later.
 I can bring book boxes for $3/box.
 
 -----
 
-Venmo or cash are the preferred forms of payment.
+Venmo, PayPal, or cash are the accepted forms of payment.

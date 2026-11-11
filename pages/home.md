@@ -3,19 +3,20 @@ layout: layouts/home.njk
 title: NOLA Man With A Van -- Small moves and deliveries in New Orleans, Louisiana. Call (504) 507-0254.
 date: 2026-03-28T00:00:00.000Z
 permalink: /
-excerpt: Furniture moves, dump runs, yard work, hardware store pickups. Orleans and St. Bernard parishes.
-summary: Furniture moves, dump runs, yard work, hardware store pickups. Orleans and St. Bernard parishes.
+excerpt: Furniture moves, dump runs, yard work, hardware store pickups. Mainly Orleans and St. Bernard parishes.
+summary: Furniture moves, dump runs, yard work, hardware store pickups. Mainly Orleans and St. Bernard parishes.
 image: /static/img/man-with-van-mar-9-2026.png
 ---
 
 ![illustration of NOLA Man With Van](/static/img/man-with-van-mar-9-2026.png)
 
-Hello! I'm Dave, and I'm a man with a van, except what I have is a pickup truck.
+Hello! I'm Dave, and I'm a "man with a van", except what I have is a pickup truck.
 The pickup bed is 7 feet by 4.5 feet (84" x 54"), and 3 feet (36in) between the wheel wells.
 It's an old truck, which means the bed is longer than the little beds on most newer trucks.
 It'll fit a king-size mattress or a sheet of plywood, no problem.
 
 <p class="cta">Call or text (504) 507-0254 for a quote.</p>
+<p>Or <a href="#form">click here to fill out a short form with your details</a>.</p>
 
 My service area is most or all of New Orleans (Orleans Parish), and St. Bernard Parish.
 I'm located in the Lower 9th Ward, so Arabi and Chalmette are close to me (and Kenner and Metairie are kind of far, but no problem).
@@ -32,7 +33,7 @@ Supplies and tools I can provide:
 - Moving blankets/cloths/tarps
 - Screwdrivers and wrenches for dismantling and reassembling furniture
 - Ratchet straps/tie-downs to secure the load
-- One four-wheel furniture dolly
+- One large four-wheel furniture dolly, and one little four-wheel furniture dolly
 
 -----
 
@@ -49,7 +50,7 @@ The basic categories of permitted waste are:
 - Woodwaste
 - Yard Trash
 
-Things I would *love* to take to the dump that are NOT ALLOWED:
+I would *love* to take the following things to the dump for you, but they are NOT ALLOWED:
 - Furniture
 - Putrescibles (garbage, rotting food, etc.)
   - _no garbage in the garbage dump, got it._
@@ -58,7 +59,7 @@ Things I would *love* to take to the dump that are NOT ALLOWED:
 - Tires
 - Treated Lumber
 - Paint, oil, oil filters, motors, batteries, etc.
-- Enclosed containers (whatever that may mean), gas cylinders, fluorescent light fixtures with ballast or neon
+- Enclosed containers _(whatever that may mean)_, gas cylinders, fluorescent light fixtures with ballast or neon
 
 -----
 
@@ -78,3 +79,5 @@ I can bring book boxes for $3/box.
 -----
 
 Venmo, PayPal, or cash are the accepted forms of payment.
+Payment is required once the items are loaded on the truck.
+
